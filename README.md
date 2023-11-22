@@ -1,7 +1,6 @@
 # Longest-Common-Subsequence
-Longest Common Subsequence algorithm 
 
-Short description or tagline for your project.
+Longest Common Subsequence dynamic programming algorithm.  
 
 ## Table of Contents
 
