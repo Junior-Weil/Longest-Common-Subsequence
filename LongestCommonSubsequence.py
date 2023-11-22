@@ -185,5 +185,4 @@ def main():
     print("Local Alignment T:", local_alignment2)
 
 
-
 main()
